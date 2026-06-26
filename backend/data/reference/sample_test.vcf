@@ -1,0 +1,15 @@
+##fileformat=VCFv4.2
+##source=SeqLensTest
+##INFO=<ID=GENE,Number=1,Type=String,Description="Gene symbol">
+##INFO=<ID=CADD,Number=1,Type=Float,Description="CADD score">
+##INFO=<ID=SIFT,Number=1,Type=Float,Description="SIFT score">
+##INFO=<ID=PolyPhen,Number=1,Type=Float,Description="PolyPhen score">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele frequency">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+17	43094692	.	G	A	30	PASS	GENE=BRCA1;CADD=25.3;SIFT=0.02;PolyPhen=0.998;AF=0.0001
+17	43094693	.	A	T	30	PASS	GENE=BRCA1;CADD=15.2;SIFT=0.15;PolyPhen=0.750;AF=0.001
+17	43094694	.	C	G	30	PASS	GENE=BRCA1;CADD=5.1;SIFT=0.80;PolyPhen=0.100;AF=0.150
+13	32339677	.	A	G	30	PASS	GENE=BRCA2;CADD=28.5;SIFT=0.01;PolyPhen=0.999;AF=0.00005
+13	32339678	.	T	C	30	PASS	GENE=BRCA2;CADD=8.3;SIFT=0.45;PolyPhen=0.320;AF=0.050
+7	117199563	.	G	T	30	PASS	GENE=CFTR;CADD=22.1;SIFT=0.03;PolyPhen=0.950;AF=0.0002
+7	117199564	.	C	A	30	PASS	GENE=CFTR;CADD=3.2;SIFT=0.90;PolyPhen=0.050;AF=0.300
