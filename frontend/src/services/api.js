@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://seqlens.onrender.com';
+const API_BASE_URL = 'https://seqlens.onrender.com/api/v1';
 
 export const uploadVCF = async (file) => {
   const formData = new FormData();
