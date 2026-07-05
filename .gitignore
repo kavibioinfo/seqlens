@@ -38,3 +38,5 @@ npm-debug.log*
 
 # Jupyter
 .ipynb_checkpoints/
+
+backend/data/reference/clinvar.vcf
