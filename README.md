@@ -34,18 +34,23 @@ SeqLens is a full-stack genomic variant annotation platform that enables researc
 ---
 
 ## 📸 Screenshots
+### Landing Page
 
-### Home Page
+![Landing Page](screenshots/landing_page.png)
 
-![Home](screenshots/home.png)
+### Results Dashboard
 
-### Dashboard
+![Dashboard](screenshots/results_dashboard.png)
 
-![Dashboard](screenshots/dashboard.png)
+### Variant Table
 
-### Variant Prediction
+![Variant Table](screenshots/variant_table.png)
 
-![Prediction](screenshots/prediction.png)
+### PDF Report
+
+![PDF Report](screenshots/pdf_report.png)
+
+
 
 ---
 
