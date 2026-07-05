@@ -21,6 +21,7 @@ backend/data/uploads/*
 !backend/data/uploads/.gitkeep
 backend/data/models/*
 !backend/data/models/.gitkeep
+backend/data/reference/clinvar.vcf
 
 # IDE
 .vscode/
@@ -39,4 +40,3 @@ npm-debug.log*
 # Jupyter
 .ipynb_checkpoints/
 
-backend/data/reference/clinvar.vcf
